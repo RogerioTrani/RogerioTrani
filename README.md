@@ -1,16 +1,16 @@
 # Rogério Trani
 
-Desenvolvedor nas horas vagas e entusiasta de IA. Gosto de explorar o que dá para construir quando agentes de vários provedores trabalham juntos — com revisão em camadas, evidência e código aberto.
+Sou desenvolvedor nas horas vagas e entusiasta de IA. Meu interesse atual: fazer agentes de provedores diferentes revisarem planos e código uns dos outros, com evidência e código aberto.
 
-- 🌐 **Site:** [ironstack.dev.br](https://ironstack.dev.br)
-- 📸 **Instagram e Threads:** [@rogeriotrani.ia](https://instagram.com/rogeriotrani.ia)
-- ▶️ **YouTube:** [@rogeriotrani_ia](https://youtube.com/@rogeriotrani_ia)
+- Site: [ironstack.dev.br](https://ironstack.dev.br)
+- Instagram e Threads: [@rogeriotrani.ia](https://instagram.com/rogeriotrani.ia)
+- YouTube: [@rogeriotrani_ia](https://youtube.com/@rogeriotrani_ia)
 
 ## Principais projetos
 
-- **[Gym Ai Pro](https://gymaipro.com.br)** — app de treino e nutrição educativa assistido por IA, para Android e web. Registra e analisa dados de treino, hábitos e conteúdo de nutrição educativa. Em produção.
-- **[GuardianContext](https://ironstack.dev.br/guardiancontext/)** — ferramenta para agentes de programação: mantém memória, regras e coordenação de agentes que trabalham no mesmo repositório Git, com CLI, Desktop e servidor MCP local. Em produção.
-- **[trident-loop](https://github.com/RogerioTrani/trident-loop)** — skill de código aberto (MIT) que coloca agentes de IA de provedores diferentes para revisar planos e código uns dos outros: um escreve o plano, outro revisa com evidências, um builder implementa e um terceiro inspeciona o diff final. Funciona com Claude Code, Codex, Kimi Code, DeepSeek Harness, qwen-code e OpenCode. Adaptada de [chaseai-yt/claudex-loop](https://github.com/chaseai-yt/claudex-loop).
+- [Gym Ai Pro](https://gymaipro.com.br): app de treino e nutrição educativa assistido por IA, para Android e web. Registra e analisa treinos, hábitos e conteúdo educativo sobre alimentação. Em produção.
+- [GuardianContext](https://ironstack.dev.br/guardiancontext/): ferramenta para agentes de programação. Mantém memória, regras e coordenação de agentes que trabalham no mesmo repositório Git, com CLI, Desktop e servidor MCP local. Em produção.
+- [trident-loop](https://github.com/RogerioTrani/trident-loop): skill open source (MIT) em que um agente escreve o plano, outro provedor revisa com evidências, um builder implementa e um terceiro inspeciona o diff final. Roda com Claude Code, Codex, Kimi Code, DeepSeek Harness, qwen-code e OpenCode. Adaptada do [claudex-loop](https://github.com/chaseai-yt/claudex-loop), do Chase AI.
 
 ## Estatísticas
 
