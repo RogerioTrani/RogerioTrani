@@ -1,3 +1,9 @@
+<p>
+  <a href="https://ironstack.dev.br">
+    <img alt="Rogério Trani" src="banner.webp" width="1200">
+  </a>
+</p>
+
 # Rogério Trani
 
 Sou desenvolvedor nas horas vagas e entusiasta de IA. Meu interesse atual: fazer agentes de provedores diferentes revisarem planos e código uns dos outros, com evidência e código aberto.
